@@ -1,0 +1,13 @@
+.bg{
+    background-color: rgba(158, 165, 168, 0.527);
+}
+
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image-slide{
+    border: 2px black solid;
+    height: 550px;
+    border-radius: 20px;
+}
